@@ -1,1 +1,1 @@
-# A Data Science for Metrics Exploration
+# A Data Science Project for Metrics Exploration
